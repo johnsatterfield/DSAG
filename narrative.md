@@ -3,7 +3,7 @@
 Artifact: Data Structures and Algorithms
 
 * [Link to Artifact](https://github.com/johnsatterfield/DSAG/tree/master/App)
-* [Back to ePortfolio](https://github.com/johnsatterfield/johnsatterfield.github.io/blob/master/index.md)
+* [Back to ePortfolio](https://johnsatterfield.github.io/)
 
 **Describe the artifact**
 
