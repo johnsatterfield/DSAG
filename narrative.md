@@ -2,6 +2,9 @@
 
 Artifact: Data Structures and Algorithms
 
+* [Link to Artifact](https://github.com/johnsatterfield/DSAG/tree/master/App)
+* [Back to ePortfolio](https://github.com/johnsatterfield/johnsatterfield.github.io/blob/master/index.md)
+
 **Describe the artifact**
 
 The artifact for this assignment comes from CS-260: Data Structures and Algorithms. The program files were developed throughout the course where we learned about the different data structures and algorithms for loading and reading data. The original programs were written in C++ and I plan to continue writing the enhancements within the same language. The data structures consist of binary search tree, linked list, and hash tables. The algorithms consist of vector sorting, quick sorting, and selection sorting.
