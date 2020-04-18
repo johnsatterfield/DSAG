@@ -1,9 +1,10 @@
+---
+layout: artifact
+---
+
 # Artifact Narrative
 
 Artifact: Data Structures and Algorithms
-
-* [Link to Artifact](https://github.com/johnsatterfield/DSAG/tree/master/App)
-* [Back to ePortfolio](https://johnsatterfield.github.io/)
 
 **Describe the artifact**
 
